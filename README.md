@@ -5,7 +5,7 @@
 - Serie: 1/3 
 - curso: informática
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/andersononix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersononix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersononix&layout=compact&langs_count=7&theme=tokyonight"/>
