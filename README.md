@@ -1,4 +1,4 @@
-### Olá] Meu nome é Anderson 👋
+### Olá Meu nome é Anderson 👋
 
 - Estou cursando informática no primeiro período  
 - Idade: 16 
@@ -7,8 +7,8 @@
 
 <div align="left">
   <a href="https://github.com/andersononix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersononix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersononix&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=andersononix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersononix&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
