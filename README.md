@@ -1,8 +1,8 @@
 ### Olá Meu nome é Anderson 👋
 
 - Estou cursando informática no primeiro período  
-- Idade: 16 
-- Serie: 1/3 
+- Idade: 17 
+- Serie: 2/3 
 - curso: informática
 
 <div align="left">
